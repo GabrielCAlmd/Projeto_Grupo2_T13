@@ -17,3 +17,6 @@
 4 - Após extrair, recomenda-se que para a área de trabalho, ou, uma pasta de fácil acesso, clique no executavel para executar.
 
 5 - após iniciar a execução divirta-se jogando ela pór vez. 
+
+Link do Repositorio para fazer o Download:
+https://github.com/GabrielCAlmd/Projeto_Grupo2_T13/blob/dcc22943e38f6050f04dcc599bc8ac442d1c884f/Jogo.zip
